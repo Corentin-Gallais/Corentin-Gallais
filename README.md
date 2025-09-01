@@ -12,12 +12,16 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't...</div>
 
-## 💻 Technologies I Love
-* Mobile App Development (Flutter)
-* Web Development
-* Machine Learning
-* Cybersecurity
-* UI/UX Design
+## 💻 Technologies I know
+*  HTML
+*  CSS
+*  Python
+*  Arduino (C++)
+*  MongoDB
+*  Java
+*  C#
+*  Windows (Serveur et client)
+*  Linux (Debian et Ubuntu)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Gallais&layout=compact" />
 
