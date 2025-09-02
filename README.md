@@ -6,7 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Corentin%20Gallais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali)  
 [![Gmail Badge](https://img.shields.io/badge/-corentin.gallais35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:corentin.gallais35@gmail.com)](mailto:corentin.gallais35@gmail.com)  
-[![Youtube Channel](https://img.shields.io/badge/-Corentin%20on%20YouTube-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Corentin-Gallais" alt="Corentin-Gallais" /> </p>
 
