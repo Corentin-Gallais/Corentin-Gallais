@@ -45,7 +45,6 @@ class WhoAmI:
     user = 'Corentin Gallais'
     current_work = 'Coding, learning, and creating cool stuff'
     hobbies = [
-        'Creating content on YouTube',
         'Exploring tech trends',
         'Gaming',
         'Debugging late at night'
@@ -54,20 +53,11 @@ class WhoAmI:
     def getCity():
         return 'Rennes, France'
 
-    def ambitions():
-        return [
-            'Master cybersecurity',
-            'Launch a successful mobile app',
-            'Build a personal brand online',
-            'Travel while working remotely'
-        ]
-
 	
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
